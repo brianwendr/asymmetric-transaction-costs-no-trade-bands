@@ -1,0 +1,7 @@
+Strategy,"US SPY/IEF, ψ = 50","US SPY/IEF, ψ = 200",Taiwan 0050/00679B,"US VFINX/VUSTX, ψ = 50"
+Centred band,2.75 (0.06),8.08 (0.11),4.81 (0.08),2.39 (0.07)
+Cost-shifted band,3.22 (0.05),8.73 (0.07),5.09 (0.07),3.29 (0.05)
+Drift-corrected band,4.00 (0.05),9.98 (0.23),4.51 (0.14),2.64 (0.06)
+Threshold-to-target,3.28 (0.06),8.24 (0.10),5.31 (0.08),2.87 (0.05)
+Monthly rebalancing,5.04,14.48,7.00,4.95
+Annual rebalancing,6.66,10.86,8.56,6.20

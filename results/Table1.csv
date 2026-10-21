@@ -1,0 +1,5 @@
+Sample,Lower share (theory),Cost comp. (bp),Alloc. comp. (bp),Avg. w SYM/ASY (%),IL centred (bp),IL theory shift (bp),IL-optimal share
+"US SPY/IEF, ψ = 50",0.14,0.08,34.2,63.2/66.8,2.57,4.52,0.55
+"US SPY/IEF, ψ = 200",0.05,0.41,43.2,63.2/67.7,5.71,8.42,0.55
+Taiwan 0050/00679B,0.43,0.06,17.7,63.2/63.9,3.97,4.59,0.7
+"US VFINX/VUSTX, ψ = 50",0.14,0.13,20.2,62.3/65.7,2.54,4.5,0.55
